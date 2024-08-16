@@ -1,6 +1,6 @@
 {
   "name": "markdown-fenced-codeblock-example-injection",
-  "displayName": "Markdown fenced code block example injection",
+  "displayName": "Markdown fenced code block zig workaround",
   "description": "",
   "version": "0.0.1",
   "publisher": "bierner",
@@ -37,5 +37,5 @@
       }
     ]
   },
-  "dependencies": {  }
+  "dependencies": {}
 }
